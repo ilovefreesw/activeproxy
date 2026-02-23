@@ -1,0 +1,1 @@
+{"env":[{"key":"FB_VERIFY_TOKEN","description":"Facebook webhook verification token"},{"key":"ACTIVEPIECES_URL","description":"Activepieces webhook URL for forwarding events"}]}
